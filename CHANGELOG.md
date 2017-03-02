@@ -13,7 +13,7 @@
 ### Features
 
 * **dropdown:** make dropdown-append-to-body configurable ([#6356](https://github.com/angular-ui/bootstrap/issues/6356))([7d3a750](https://github.com/angular-ui/bootstrap/commit/7d3a750))
-* **pagination:** Added menu and menuitem roles (closes [#6383](https://github.com/angular-ui/bootstrap/issues/6383)) ([#6386](https://github.com/angular-ui/bootstrap/issues/6386))([71dc691](https://github.com/angular-ui/bootstrap/commit/71dc691)), closes [#6383](https://github.com/angular-ui/bootstrap/issues/6383) [(#6386](https://github.com/(/issues/6386)
+* **pagination:** Added menu and menuitem roles (closes [#6383](https://github.com/angular-ui/bootstrap/issues/6383)) ([#6386](https://github.com/angular-ui/bootstrap/issues/6386))([71dc691](https://github.com/angular-ui/bootstrap/commit/71dc691)), closes [#6383](https://github.com/angular-ui/bootstrap/issues/6383) [#6386](https://github.com/angular-ui/bootstrap/issues/6386)
 
 
 
